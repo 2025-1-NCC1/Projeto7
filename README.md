@@ -17,7 +17,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="[https://pix4free.org/assets/library/2021-01-20/originals/game.jpg](https://photos.fife.usercontent.google.com/pw/AP1GczP4k7mKztFaG1ZI1HxUUH7ZGwu25Utkd9oogruhMmNKJiOItjxg4H7S=w953-h953-s-no-gm?authuser=0)" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
