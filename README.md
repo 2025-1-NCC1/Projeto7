@@ -85,3 +85,5 @@ Aqui estão as referências usadas no projeto.
 2.https://unity.com/pt/products
 
 3.https://unity.com/pt/download
+
+4. https://free3d.com/3d-model/cartoon-city-2319.html Modelo 3D usado na cidade.
