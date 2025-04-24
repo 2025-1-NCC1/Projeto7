@@ -50,12 +50,6 @@ Projeto
 
 ├── MyProject.sln
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
 <b>documentos</b>: Toda a documentação estará nesta pasta.
 
 <b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
