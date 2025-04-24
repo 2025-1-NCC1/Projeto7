@@ -27,16 +27,27 @@ Mandatum é um jogo de administração de uma cidade inteligente (Smart City), o
 ## 🛠 Estrutura de pastas
 
 Projeto
+
 │
+
 ├── .vs
+
 ├── Assets
+
 ├── Logs
+
 ├── obj
+
 ├── packages
+
 ├── ProjectSettings
+
 ├── UserSettings
+
 ├── .vsconfig
+
 ├── Assembly-CSharp
+
 ├── MyProject.sln
 
 A pasta raiz contem dois arquivos que devem ser alterados:
