@@ -1,45 +1,46 @@
-Game Design Document resumido jogo mandatum
+Game Design Document - Mandatum
+
 1. Plataforma:
 O jogo será desenvolvido para PC.
 
 2. Público-Alvo:
-Masculino, faixa etária de 12 a 30 anos.
+Público masculino, com faixa etária entre 12 e 30 anos.
 
 3. Modelo de Monetização:
 Sem monetização no momento.
 
 4. História:
-Em uma cidade relativamente isolada, o objetivo é usar a tecnologia a favor dos moradores, criando um
-sistema onde eles competem entre si para economizar energia. Todo mês, ocorre uma "competição" para
-ver quem consome menos.
+Em uma cidade relativamente isolada, o objetivo é usar a tecnologia a favor dos moradores, criando
+um sistema no qual eles competem entre si para economizar energia. Todos os meses ocorre uma
+competição para ver quem consome menos energia no período.
 
 5. Gameplay:
-O jogador acompanha a disputa entre casas para ver qual consumirá menos energia ao longo de um período
-de 30 dias. As casas consomem energia de forma aleatória. Um ranking ao vivo mostra quem está
-economizando mais, e ao final do ciclo de 30 dias, o vencedor é revelado.
+O jogador acompanha a disputa entre residências para verificar qual delas consumirá menos
+energia ao longo de 30 dias. O consumo de energia das casas ocorre de forma aleatória. Um
+ranking em tempo real exibe quem está economizando mais. Ao final do ciclo de 30 dias, o
+vencedor é revelado.
 
 6. Mecânicas Principais:
-- Sistema de contagem de dias (1 dia = 30 segundos)
-- Consumo aleatório de energia por casa
-- UI com ranking dinâmico
+- Sistema de perguntas e respostas (Quiz): Uma pergunta diária aparecerá para o jogador. Caso a
+resposta esteja correta, o jogador receberá benefícios, como aumento na economia de energia.
+Caso erre, o consumo aumentará. Essa mecânica estimula o aprendizado e a conscientização
+sobre o uso racional de energia, gerando recompensas práticas na jogabilidade.
+- Sistema de contagem de dias: 1 dia no jogo equivale a 30 segundos.
+- Consumo de energia aleatório por casa
+- Interface com ranking dinâmico
 - Verificação automática do vencedor
 - Botão para acelerar o tempo
 - Feedback visual e textual ao final da competição
-Game Design Document - Mandatum
 
 7. Controles:
-- Mouse: principal meio de controle
+- Mouse: Principal meio de interação
 
 8. Ambientação:
-Cidade moderna, ambientada nos dias atuais.
+Cidade moderna ambientada nos dias atuais.
 
 9. Inimigos:
-Não há inimigos diretos; o desafio está na administração da cidade e na eficiência energética.
+Não há inimigos diretos; o desafio está na administração eficiente da cidade e no controle do
+consumo energético.
 
-10. Expansões Futuras:
-- Adição de upgrades (placas solares, energia eólica)
-- Eventos climáticos (ondas de calor, tempestades, estações do ano)
-- Expansão urbana com novos bairros
-- Picos de consumo em horários específicos
-
-Integrantes: Paulo Guilherme, Gustavo Archangelo, Luiz Antonio, Antonio Gabriel, Nicolas Araujo
+Integrantes:
+Paulo Guilherme, Gustavo Archangelo, Luiz Antonio, Antonio Gabriel, Nicolas Araujo
