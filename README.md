@@ -20,8 +20,11 @@
 <img ![Image](https://github.com/user-attachments/assets/79a1bf35-ca3b-4cd4-82c5-eb1497c6e389)>
 
 
+Mandatum se passa em uma cidade isolada e sustentável, onde os moradores participam de um desafio diário baseado em perguntas de quiz. A cada dia que se passa dentro do jogo (em um ciclo de 30 dias), o jogador recebe uma nova pergunta. Se responder corretamente, o consumo de energia da casa virtual diminui; se errar, esse consumo aumenta. A mecânica é simples, mas poderosa: o conhecimento do jogador impacta diretamente na eficiência energética da residência, criando um ciclo de aprendizado e consequência. O objetivo é ensinar de forma divertida, ao mesmo tempo em que estimula a atenção e o raciocínio diário.
 
-Mandatum é um jogo de administração de uma cidade inteligente (Smart City), onde o jogador assume o papel de um prefeito responsável pela gestão dos recursos da cidade. O objetivo é otimizar o consumo de energia enquanto mantém a popularidade da cidade em alta. A cada mês, as casas da cidade geram consumos aleatórios de energia e o jogador deve equilibrar os recursos para garantir que a cidade continue funcionando de maneira sustentável.
+Além do aspecto lúdico, o jogo traz uma mensagem importante sobre a otimização do uso de energia. Em uma cidade onde os recursos são limitados, economizar energia é essencial. Evitar desperdícios no dia a dia — como deixar luzes acesas ou eletrodomésticos em stand-by — pode parecer algo pequeno, mas gera um impacto coletivo. O jogo reforça essa ideia, mostrando que pequenas ações e decisões conscientes, quando feitas de forma constante, contribuem significativamente para o benefício do jogador, tanto dentro da cidade virtual quanto no mundo real.
+
+
 <br><br>
 
 ## 🛠 Estrutura de pastas
