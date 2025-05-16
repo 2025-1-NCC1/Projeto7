@@ -10,7 +10,7 @@
 
 ## Mandatum
 
-## Integrantes: Gustavo Archangelo, Luiz Antônio, Paulo Guilherme, Nicolas Araujo, Antônio Gabriel.
+## Integrantes: <a href="https://github.com/Archangeloo">Gustavo Archangelo</a>, Luiz Antônio, Paulo Guilherme, Nicolas Araujo, Antônio Gabriel.
 
 ## Professores Orientadores: Victor Rosetti, Gilles Leite.
 
