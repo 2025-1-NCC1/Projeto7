@@ -83,4 +83,5 @@ Aqui estão as referências usadas no projeto.
 4.https://free3d.com/3d-model/cartoon-city-2319.html Modelo 3D usado na cidade.
 
 5. Sound Effect by <a href="https://pixabay.com/pt/users/freesound_community-46691455/">axtoncrolley (Freesound)</a>
-6. https://pixabay.com/pt/sound-effects/merx-market-song-33936/
+
+6. https://pixabay.com/pt/sound-effects/merx-market-song-33936/ Efeito Sonoro dentro do jogo.
