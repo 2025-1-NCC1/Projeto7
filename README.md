@@ -12,7 +12,7 @@
 
 ## Integrantes: <a href="https://github.com/Archangeloo">Gustavo Archangelo</a> ,<a href="https://github.com/Luiiz77">Luiz Antonio</a> , <a href="https://github.com/pauloguipedro">Paulo Guilherme</a>,<a href="https://github.com/nicolasaraujo04">Nicolas Araujo</a>,<a href="https://github.com/antoniogab15">Antonio Gabriel</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosseti de Quiroz</a>, Gilles Pedrosa Leite.
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosseti de Quiroz</a>, <a href="https://www.linkedin.com/in/gillespleite/">Gilles Pedroza Leite</a>.
 
 ## Descrição
 ![Image](https://github.com/user-attachments/assets/79a1bf35-ca3b-4cd4-82c5-eb1497c6e389)
