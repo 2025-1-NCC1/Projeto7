@@ -68,7 +68,7 @@ Fazer o download do Unity, no site https://unity.com/download, na versão 6000.0
 Após finalizar a instalação do Unity, faça o download do arquivo do projeto que se encontra na pasta "src" e importe para o aplicativo do Unity.
 
 ## 📋 Licença/License
-Utilize o link https://unity.com/pt/products para adquirir uma licença do Unity, que oferece 2 tipos de licenças gratuitas, são elas: Unity Personal e Unity Student.
+<a href="https://github.com/2025-1-NCC1/Projeto7">Mandatum</a> © 2025 by <a href="https://github.com/2025-1-NCC1/Projeto7">Nicolas Araujo, Gustavo Archangelo, Paulo Guilherme, Luiz Antonio, Antonio Gbriel </a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
