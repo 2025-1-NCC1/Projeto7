@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c6cd0966f096a7428c90ab822465470, type: 3}
+  m_Name: NewQuickEvent 26
+  m_EditorClassIdentifier: 
+  respostaCorretaIndex: 2
+  question: "O que significa \u201Cdescarbonizar\u201D a matriz energ\xE9tica?"
+  options:
+  - "Usar mais carv\xE3o vegetal"
+  - Aumentar uso de diesel
+  - "Reduzir emiss\xF5es de carbono"
+  onOptionSelected:
+  - m_PersistentCalls:
+      m_Calls: []
+  - m_PersistentCalls:
+      m_Calls: []
+  - m_PersistentCalls:
+      m_Calls: []
