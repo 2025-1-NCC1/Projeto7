@@ -10,7 +10,7 @@
 
 ## Mandatum
 
-## Integrantes: <a href="https://github.com/Archangeloo">Gustavo Archangelo</a> ,<a href="https://github.com/Luiiz77">Luiz Antonio</a> , <a href="https://github.com/pauloguipedro">Paulo Guilherme</a>,<a href="www.linkedin.com/in/nicolas-araujo-179697249">Nicolas Araujo</a>,<a href="https://github.com/antoniogab15">Antonio Gabriel</a>.
+## Integrantes: <a href="https://github.com/Archangeloo">Gustavo Archangelo</a> ,<a href="https://github.com/Luiiz77">Luiz Antonio</a> , <a href="https://github.com/pauloguipedro">Paulo Guilherme</a>,<a href="https://www.linkedin.com/in/nicolas-araujo-179697249">Nicolas Araujo</a>,<a href="https://github.com/antoniogab15">Antonio Gabriel</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosseti de Quiroz</a>, <a href="https://www.linkedin.com/in/gillespleite/">Gilles Pedroza Leite</a>.
 
