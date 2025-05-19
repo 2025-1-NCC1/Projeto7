@@ -55,11 +55,31 @@ Além do aspecto lúdico, o jogo traz uma mensagem importante sobre a otimizaç�
 ## 🛠 Instalação
 
 Unity
-Fazer o download do Unity, no site https://unity.com/download, na versão 6000.0.38f1.
+Para baixar o jogo, entre na pasta executáveis, clique em MandatumWIN.zip e baixe o aqrquivo. Após o download do arquivo, clique com o botao direito do seu mouse e aperte em extract here, abra a pasta extraída e clique em My project para jogar!
 
 ## 💻 Configuração para Desenvolvimento
 
-Após finalizar a instalação do Unity, faça o download do arquivo do projeto que se encontra na pasta "src" e importe para o aplicativo do Unity.
+1- Acesse o site GitHub e entre no repositório chamado projeto4.
+
+2-Role a página para baixo até encontrar a seção com o título "🛠 Instalação".
+
+3-Siga as instruções dessa seção para encontrar e baixar o arquivo do jogo.
+
+4-Após o download, vá até a pasta onde o arquivo foi salvo.
+
+5-Clique com o botão direito no arquivo ZIP baixado e selecione a opção "Extrair arquivos...".
+
+6-Clique em "OK" para iniciar a extração. Isso criará uma pasta com os arquivos do projeto.
+
+7-Abra o Unity Hub.
+
+8-No Unity Hub, clique em "Add" (ou “Adicionar”) e selecione a pasta que você acabou de extrair (clique duas vezes nela para abrir).
+
+9-Clique em "Select Folder" (ou “Selecionar pasta”).
+
+10- Verifique se a versão do Unity usada pelo projeto é a 6000.0.38f (se necessário, instale essa versão pelo Unity Hub para evitar erros).
+
+11-Clique em "Open" para abrir o projeto no Unity.
 
 ## 📋 Licença/License
 <a href="https://github.com/2025-1-NCC1/Projeto7">Mandatum</a> © 2025 by <a href="https://github.com/2025-1-NCC1/Projeto7">Nicolas Araujo, Gustavo Archangelo, Paulo Guilherme, Luiz Antonio, Antonio Gbriel </a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
