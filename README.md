@@ -12,7 +12,7 @@
 
 ## Integrantes: <a href="https://github.com/Archangeloo">Gustavo Archangelo</a> ,<a href="https://github.com/Luiiz77">Luiz Antonio</a> , <a href="https://github.com/pauloguipedro">Paulo Guilherme</a>,<a href="https://www.linkedin.com/in/nicolas-araujo-179697249">Nicolas Araujo</a>,<a href="https://github.com/antoniogab15">Antonio Gabriel</a>.
 
- Professores Orientadores: [Francisco de Souza Escobar](https://www.linkedin.com/in/francisco-escobar/), [Renata Muniz Do Nascimento](https://www.linkedin.com/in/remuniz/), [Lucy Mari Tabuti](https://www.linkedin.com/in/lucymari/), [Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/) e [Gilles Leite](https://www.linkedin.com/in/gillespleite/)
+## Professores Orientadores: [Francisco de Souza Escobar](https://www.linkedin.com/in/francisco-escobar/), [Renata Muniz Do Nascimento](https://www.linkedin.com/in/remuniz/), [Lucy Mari Tabuti](https://www.linkedin.com/in/lucymari/), [Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/) e [Gilles Leite](https://www.linkedin.com/in/gillespleite/)
  
 ## Descrição
 ![Image](https://github.com/user-attachments/assets/79a1bf35-ca3b-4cd4-82c5-eb1497c6e389)
